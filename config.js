@@ -28,7 +28,7 @@ var config = {
         turn_on: "开始",
         play: "音乐",
         bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
+        balloons_flying: "好像少点东西，很多",
         cake_fadein: "好吃的？",
         light_candle: "好玩的？",
         wish_message: "伞兵开伞，伞兵牛逼！！！！！",
