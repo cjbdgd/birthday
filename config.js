@@ -31,7 +31,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "好吃的？",
         light_candle: "好玩的？",
-        wish_message: "伞兵开伞！！！！",
+        wish_message: "伞兵开伞，伞兵牛逼！！！！",
         story: "A MESSAGE FOR YOU",
     }
 };
